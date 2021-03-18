@@ -18,6 +18,9 @@ Following genome assembly, there are multiple rounds of post-assembly quality ch
 
 ## Preliminary results
 
+Sequencing run data [here]https://docs.google.com/document/d/1ubzL-r5MCy7yzEuqu2-HcwsHeLKOX9BoJGihsryiPow/edit
+Location: /projects/EBP/Wegrzyn/Moss/ppyriforme/assembly/data/2020NOV11_Goffinet_3798A_PAG01750
+N50: 19.5Kb
 Centrifuge/Kraken results are in this spreadsheet: https://docs.google.com/spreadsheets/d/11go67Dql56dhhBo1JlUH7nulwTDp2iDw1IhnIql3CwQ/edit#gid=1318488447
 
 **BUSCO scores after shasta run**: C:60.0%[S:46.8%,D:13.2%],F:7.1%,M:32.9%,n:425
