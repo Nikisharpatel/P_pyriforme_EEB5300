@@ -36,6 +36,9 @@ Centrifuge/Kraken results are in this spreadsheet: https://docs.google.com/sprea
 
 And after medaka polishing: C:65.9%[S:51.5%,D:14.4%],F:5.2%,M:28.9%,n:425
 
+**Redbean Assembly**
+
+Shell script: https://docs.google.com/document/d/1GRHopN_uNghFQCACA_93zMA26EiNavRn2SN_eWBUfos/edit?usp=sharing
 ## References 
 
 Doyle, J. J., & Coate, J. E. (2019). Polyploidy, the Nucleotype, and Novelty: The Impact of Genome Doubling on the Biology of the Cell. International Journal of Plant Sciences, 180(1), 1–52.
